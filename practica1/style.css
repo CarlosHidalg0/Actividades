@@ -1,0 +1,67 @@
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 500px;
+    box-shadow:  0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+
+    background-color: #00a6ff;
+    color: #ffffff;
+    text-align: middle;
+}
+
+.styled-table  th,
+.styled-table  td{
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-tbody
+{
+    background-color: rgb(13, 162, 212);
+
+}
+
+.styled-tbody h1
+{
+     
+      font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+      background-color: hwb(5 5% 17%);
+
+}
+
+.styled-tbody a
+{
+    background-color: hwb(152 9% 39%);
+   
+}
+
+.styled-pbody 
+{
+    
+    background-color: rgb(247, 243, 243);
+}
+
+.styled-pbody h1 
+{
+font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-color: hwb(5 5% 17%);
+}
+
+
+
+  
+  
